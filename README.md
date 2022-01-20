@@ -1,2 +1,2 @@
 # Mobile
- Some exercises and testings in Java
+ Exercises and testings for Mobile applications in Java
